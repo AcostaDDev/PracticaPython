@@ -1,0 +1,2 @@
+Modificaciones fallidas: 
+'0018', 'Daniel', 'García Gómez', '11742988Q', 'Contabilidad', '1'

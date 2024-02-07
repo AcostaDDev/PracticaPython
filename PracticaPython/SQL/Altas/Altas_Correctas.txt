@@ -1,0 +1,8 @@
+Altas correctas: 
+'0001', 'Juan', 'García García', '12345678Z', 'Contabilidad', '2'
+'0002', 'Ana María', 'Gómez Martín', '45761224X', 'Ventas', '1'
+'0003', 'Pedro', 'Blanco Martínez', '35651188S', 'Compras', '0'
+'0004', 'Carlos', 'López García', '78971211K', 'Almacén', '4'
+'0005', 'Cristina', 'Soto González', '05512341T', 'Marketing', '3'
+'0006', 'Manuel', 'González Ruiz', '12772298F', 'Compras', '1'
+'0007', 'Marta', 'Martín Rubio', '44116789Y', 'Informática', '2'
