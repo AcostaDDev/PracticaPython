@@ -88,7 +88,7 @@ def update():
     lineas = fich_modificaciones.readlines()
     for indice,l in enumerate(lineas):
         l = str(l).strip().split(";")
-
+        
         codigo = l[0]
         nombre = l[1]
         apellidos = l[2]

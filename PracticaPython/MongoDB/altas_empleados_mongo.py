@@ -1,6 +1,6 @@
 from funciones import *
 
-createCollection
+createCollection()
 
 
     
