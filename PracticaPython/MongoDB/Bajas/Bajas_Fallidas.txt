@@ -1,0 +1,3 @@
+Bajas fallidas: 
+'0022'
+'0025'
