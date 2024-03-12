@@ -1,6 +1,0 @@
-from funciones import *
-
-createCollection()
-
-
-    

@@ -1,8 +1,0 @@
-Consulta a la tabla mae_empleados 
-Código -> 0001 || Nombre y Apellidos -> Juan García García || NIF -> 12345678Z || Departamento -> Contabilidad || Num_Hijos -> 2 
-Código -> 0002 || Nombre y Apellidos -> Ana María Gómez Martín || NIF -> 45761224X || Departamento -> Ventas || Num_Hijos -> 1 
-Código -> 0003 || Nombre y Apellidos -> Pedro Blanco Martínez || NIF -> 35651188S || Departamento -> Compras || Num_Hijos -> 0 
-Código -> 0004 || Nombre y Apellidos -> Carlos López García || NIF -> 78971211K || Departamento -> Almacén || Num_Hijos -> 4 
-Código -> 0005 || Nombre y Apellidos -> Cristina Soto González || NIF -> 05512341T || Departamento -> Marketing || Num_Hijos -> 3 
-Código -> 0006 || Nombre y Apellidos -> Manuel González Ruiz || NIF -> 12772298F || Departamento -> Compras || Num_Hijos -> 1 
-Código -> 0007 || Nombre y Apellidos -> Marta Martín Rubio || NIF -> 44116789Y || Departamento -> Informática || Num_Hijos -> 2 
